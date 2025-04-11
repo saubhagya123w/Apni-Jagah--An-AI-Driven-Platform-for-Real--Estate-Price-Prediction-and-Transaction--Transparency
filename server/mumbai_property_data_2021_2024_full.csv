@@ -1,0 +1,201 @@
+Year,Location,BHK,Sqft,Price_per_sqft,Rate_of_Change_%,Future_Projects,Description
+2021,Malad East,1,579,145.08,-9.55,SEZ zone expansion,New IT park proposed
+2022,Malad East,3,1045,76.15,-5.27,Metro expansion,Water shortage issues
+2023,Malad East,3,1080,67.67,-8.16,No major projects,Influx of working professionals
+2024,Malad East,2,865,80.4,-4.83,Affordable housing scheme,New IT park proposed
+2021,Ambernath West,3,1494,60.24,0.3,IT corridor development,New metro line announced
+2022,Ambernath West,2,638,147.56,4.6,SEZ zone expansion,Improved infrastructure
+2023,Ambernath West,2,966,110.46,13.35,Private residential complex,New highway construction
+2024,Ambernath West,3,1458,71.86,-1.81,SEZ zone expansion,Low demand
+2021,Borivali West,3,1291,24.79,5.27,No major projects,Government housing scheme launched
+2022,Borivali West,2,738,40.25,-7.16,Green energy township,Government housing scheme launched
+2023,Borivali West,2,847,32.46,-7.44,Metro expansion,Low demand
+2024,Borivali West,1,569,43.88,-9.19,SEZ zone expansion,New metro line announced
+2021,Andheri East,3,1261,54.72,8.99,Commercial hub in planning,New highway construction
+2022,Andheri East,1,487,160.49,13.28,Private residential complex,New metro line announced
+2023,Andheri East,2,955,73.73,-9.91,No major projects,Influx of working professionals
+2024,Andheri East,1,591,108.74,-8.73,Green energy township,Water shortage issues
+2021,Ambernath East,2,856,86.45,10.75,Commercial hub in planning,New IT park proposed
+2022,Ambernath East,2,624,121.36,2.33,New flyover project,Private township project started
+2023,Ambernath East,1,436,177.45,2.17,Green energy township,Low demand
+2024,Ambernath East,1,456,160.55,-5.37,Smart city initiative,Government housing scheme launched
+2021,Kalamboli,2,911,58.18,5.56,Green energy township,Influx of working professionals
+2022,Kalamboli,2,634,77.84,-6.88,Private residential complex,Improved infrastructure
+2023,Kalamboli,2,651,85.29,12.51,No major projects,New metro line announced
+2024,Kalamboli,2,770,65.46,-9.22,Green energy township,Real estate slowdown
+2021,Diva,2,917,87.24,6.66,Metro expansion,Private township project started
+2022,Diva,1,414,198.85,2.9,No major projects,New highway construction
+2023,Diva,3,1030,78.98,-1.18,SEZ zone expansion,New highway construction
+2024,Diva,1,554,151.56,3.21,Green energy township,Real estate slowdown
+2021,Dahisar,1,541,105.36,-6.97,New flyover project,No major development
+2022,Dahisar,1,368,163.17,5.35,Smart city initiative,New metro line announced
+2023,Dahisar,3,1408,43.66,2.37,Private residential complex,Environmental concerns
+2024,Dahisar,1,526,111.4,-4.67,Green energy township,New IT park proposed
+2021,Santacruz East,1,559,93.02,1.64,Affordable housing scheme,Real estate slowdown
+2022,Santacruz East,1,416,141.03,12.82,IT corridor development,Improved infrastructure
+2023,Santacruz East,2,959,55.79,-8.81,IT corridor development,Influx of working professionals
+2024,Santacruz East,1,316,182.24,7.64,Green energy township,New metro line announced
+2021,Palghar,3,1497,24.72,9.22,Metro expansion,Influx of working professionals
+2022,Palghar,1,343,118.47,9.83,Private residential complex,Improved infrastructure
+2023,Palghar,3,1016,39.97,-0.07,Smart city initiative,New metro line announced
+2024,Palghar,1,498,78.58,-3.64,Commercial hub in planning,Improved infrastructure
+2021,Thane West,1,479,179.54,8.6,New flyover project,Private township project started
+2022,Thane West,3,1182,81.22,11.63,Green energy township,Private township project started
+2023,Thane West,3,1452,75.92,14.83,New flyover project,Water shortage issues
+2024,Thane West,3,1288,97.44,13.85,IT corridor development,New IT park proposed
+2021,Borivali East,2,706,103.4,2.21,No major projects,Real estate slowdown
+2022,Borivali East,2,982,75.16,1.1,Smart city initiative,No major development
+2023,Borivali East,1,564,147.69,12.86,Private residential complex,Low demand
+2024,Borivali East,2,609,153.12,11.95,Private residential complex,New metro line announced
+2021,Airoli,3,1251,34.37,-1.03,New flyover project,Real estate slowdown
+2022,Airoli,2,732,65.83,12.07,Green energy township,Improved infrastructure
+2023,Airoli,1,425,106.98,-5.65,Commercial hub in planning,Environmental concerns
+2024,Airoli,3,1500,31.32,3.34,Smart city initiative,No major development
+2021,Virar,1,328,152.44,-3.63,Private residential complex,Government housing scheme launched
+2022,Virar,3,1391,36.74,2.2,Commercial hub in planning,Private township project started
+2023,Virar,1,580,92.82,5.35,Smart city initiative,New metro line announced
+2024,Virar,3,1122,51.66,7.67,Private residential complex,New metro line announced
+2021,Thane East,1,535,78.5,9.69,New flyover project,Low demand
+2022,Thane East,3,1472,26.66,-6.56,No major projects,New metro line announced
+2023,Thane East,1,426,88.22,-4.24,Green energy township,Influx of working professionals
+2024,Thane East,3,1324,26.91,-5.21,Private residential complex,Government housing scheme launched
+2021,Kandivali East,2,632,47.47,4.52,IT corridor development,Government housing scheme launched
+2022,Kandivali East,2,899,37.19,11.45,SEZ zone expansion,Government housing scheme launched
+2023,Kandivali East,1,538,70.57,13.55,Smart city initiative,Influx of working professionals
+2024,Kandivali East,3,1130,34.35,2.25,Green energy township,Improved infrastructure
+2021,Panvel,1,359,197.77,12.04,IT corridor development,Private township project started
+2022,Panvel,3,1489,47.45,-0.5,New flyover project,Environmental concerns
+2023,Panvel,1,443,151.72,-4.86,Commercial hub in planning,Influx of working professionals
+2024,Panvel,1,419,160.73,0.2,Smart city initiative,Environmental concerns
+2021,Kandivali West,2,880,36.36,-1.48,Metro expansion,New metro line announced
+2022,Kandivali West,2,816,40.32,2.83,Affordable housing scheme,Real estate slowdown
+2023,Kandivali West,1,517,58.87,-7.5,No major projects,Improved infrastructure
+2024,Kandivali West,1,366,79.18,-4.79,IT corridor development,Improved infrastructure
+2021,Khopoli,3,1292,65.02,0.25,Smart city initiative,No major development
+2022,Khopoli,3,1064,84.75,7.35,New flyover project,Private township project started
+2023,Khopoli,2,751,109.72,-8.62,Smart city initiative,Water shortage issues
+2024,Khopoli,1,505,161.08,-1.28,Private residential complex,Water shortage issues
+2021,Taloja,2,730,47.95,6.16,Smart city initiative,Influx of working professionals
+2022,Taloja,1,564,66.71,7.5,IT corridor development,Water shortage issues
+2023,Taloja,1,566,74.32,11.79,IT corridor development,Environmental concerns
+2024,Taloja,2,775,59.17,9.03,SEZ zone expansion,Improved infrastructure
+2021,Kalyan West,1,370,159.46,11.17,Affordable housing scheme,Improved infrastructure
+2022,Kalyan West,1,402,145.49,-0.87,Affordable housing scheme,Low demand
+2023,Kalyan West,2,606,92.93,-3.71,No major projects,Private township project started
+2024,Kalyan West,1,505,113.19,1.5,Commercial hub in planning,Improved infrastructure
+2021,Malad West,1,421,161.52,-4.86,Private residential complex,Influx of working professionals
+2022,Malad West,3,1345,49.05,-2.99,IT corridor development,New highway construction
+2023,Malad West,1,313,197.5,-6.29,No major projects,New metro line announced
+2024,Malad West,2,972,66.86,5.13,Smart city initiative,New highway construction
+2021,Kharghar,2,609,65.68,0.63,Private residential complex,Environmental concerns
+2022,Kharghar,2,667,63.44,5.78,Metro expansion,New highway construction
+2023,Kharghar,3,1077,39.14,-0.38,Private residential complex,Government housing scheme launched
+2024,Kharghar,1,329,117.93,-7.96,No major projects,Water shortage issues
+2021,Kalyan East,2,970,70.1,5.56,Affordable housing scheme,Environmental concerns
+2022,Kalyan East,1,364,210.56,12.71,New flyover project,Private township project started
+2023,Kalyan East,3,1350,62.76,10.54,New flyover project,New IT park proposed
+2024,Kalyan East,3,1413,66.29,10.56,New flyover project,No major development
+2021,Goregaon West,2,800,70.0,9.6,Private residential complex,Environmental concerns
+2022,Goregaon West,1,381,157.25,6.98,Smart city initiative,Government housing scheme launched
+2023,Goregaon West,1,348,183.72,6.71,IT corridor development,Water shortage issues
+2024,Goregaon West,1,519,117.23,-4.84,No major projects,Environmental concerns
+2021,Umroli,1,309,161.81,10.24,Commercial hub in planning,Environmental concerns
+2022,Umroli,3,1394,37.03,3.25,Commercial hub in planning,New metro line announced
+2023,Umroli,2,666,86.51,11.6,SEZ zone expansion,Private township project started
+2024,Umroli,2,660,99.12,13.56,IT corridor development,Low demand
+2021,Goregaon East,3,1261,25.38,1.29,Smart city initiative,Influx of working professionals
+2022,Goregaon East,2,713,49.53,10.35,Private residential complex,New IT park proposed
+2023,Goregaon East,1,493,74.05,3.38,No major projects,Private township project started
+2024,Goregaon East,1,529,79.07,14.57,Smart city initiative,Environmental concerns
+2021,Ulwe,3,1320,23.48,-0.82,No major projects,Improved infrastructure
+2022,Ulwe,3,1170,28.71,8.35,SEZ zone expansion,Real estate slowdown
+2023,Ulwe,2,694,44.85,-7.32,Green energy township,Improved infrastructure
+2024,Ulwe,1,333,90.58,-3.1,New flyover project,New IT park proposed
+2021,Titwala,2,811,104.81,-9.06,Metro expansion,Environmental concerns
+2022,Titwala,1,503,175.73,3.99,IT corridor development,Real estate slowdown
+2023,Titwala,3,1282,62.2,-9.79,Smart city initiative,Improved infrastructure
+2024,Titwala,1,362,234.03,6.25,Private residential complex,New metro line announced
+2021,Rasayani,3,1407,25.59,-2.72,SEZ zone expansion,New highway construction
+2022,Rasayani,3,1232,33.27,13.85,Commercial hub in planning,New IT park proposed
+2023,Rasayani,3,1114,41.07,11.63,SEZ zone expansion,Improved infrastructure
+2024,Rasayani,3,1368,36.38,8.79,Commercial hub in planning,Low demand
+2021,Badlapur West,3,1332,37.54,12.69,Commercial hub in planning,New highway construction
+2022,Badlapur West,1,476,113.97,8.5,SEZ zone expansion,Water shortage issues
+2023,Badlapur West,2,720,82.19,9.07,Green energy township,New highway construction
+2024,Badlapur West,3,1306,49.45,9.15,Smart city initiative,Water shortage issues
+2021,Dronagiri,2,610,73.77,9.75,IT corridor development,New IT park proposed
+2022,Dronagiri,3,1126,36.08,-9.73,Commercial hub in planning,Influx of working professionals
+2023,Dronagiri,2,983,46.67,12.92,Commercial hub in planning,Improved infrastructure
+2024,Dronagiri,3,1435,29.81,-6.74,Commercial hub in planning,Water shortage issues
+2021,Chembur,1,528,119.32,-4.88,SEZ zone expansion,Environmental concerns
+2022,Chembur,3,1458,44.92,3.97,Commercial hub in planning,Private township project started
+2023,Chembur,1,540,138.02,13.79,Affordable housing scheme,No major development
+2024,Chembur,2,736,92.3,-8.85,New flyover project,New IT park proposed
+2021,Kamothe,3,1089,59.69,-7.77,Metro expansion,Real estate slowdown
+2022,Kamothe,2,868,70.74,-5.53,Metro expansion,Real estate slowdown
+2023,Kamothe,1,544,108.15,-4.19,Private residential complex,No major development
+2024,Kamothe,3,1087,53.06,-1.97,Smart city initiative,No major development
+2021,Dombivli,1,408,75.98,14.32,IT corridor development,Private township project started
+2022,Dombivli,1,306,97.98,-3.28,IT corridor development,Private township project started
+2023,Dombivli,3,1308,24.6,7.3,Green energy township,No major development
+2024,Dombivli,3,1095,28.22,-3.96,Metro expansion,New IT park proposed
+2021,Jogeshwari West,2,693,50.51,-7.77,New flyover project,Environmental concerns
+2022,Jogeshwari West,2,982,35.96,0.89,Commercial hub in planning,New metro line announced
+2023,Jogeshwari West,3,1221,31.07,7.44,IT corridor development,Environmental concerns
+2024,Jogeshwari West,3,1356,31.22,11.58,Affordable housing scheme,Low demand
+2021,Vangani,1,389,210.8,-5.02,Affordable housing scheme,Water shortage issues
+2022,Vangani,3,1391,66.74,13.21,Metro expansion,No major development
+2023,Vangani,1,459,201.17,-0.53,SEZ zone expansion,Influx of working professionals
+2024,Vangani,1,536,160.7,-6.72,Metro expansion,Real estate slowdown
+2021,Shahapur,3,1080,56.48,8.05,No major projects,Government housing scheme launched
+2022,Shahapur,3,1056,64.42,11.53,No major projects,No major development
+2023,Shahapur,2,648,96.24,-8.33,Affordable housing scheme,Government housing scheme launched
+2024,Shahapur,1,425,132.66,-9.59,Commercial hub in planning,New metro line announced
+2021,Mulund West,3,1460,26.03,3.73,Affordable housing scheme,Real estate slowdown
+2022,Mulund West,3,1329,32.63,14.1,Smart city initiative,Private township project started
+2023,Mulund West,3,1425,31.04,2.0,Commercial hub in planning,New metro line announced
+2024,Mulund West,3,1130,39.11,-0.06,Metro expansion,Private township project started
+2021,Karjat,3,1313,35.8,-6.73,Smart city initiative,New highway construction
+2022,Karjat,2,605,77.06,-0.81,Metro expansion,Government housing scheme launched
+2023,Karjat,2,648,72.15,0.29,No major projects,Environmental concerns
+2024,Karjat,1,472,113.27,14.35,Affordable housing scheme,Real estate slowdown
+2021,Badlapur East,2,605,72.73,6.51,Smart city initiative,New metro line announced
+2022,Badlapur East,1,540,81.74,0.32,SEZ zone expansion,No major development
+2023,Badlapur East,1,383,121.57,5.49,Commercial hub in planning,New IT park proposed
+2024,Badlapur East,3,1089,42.63,-0.31,Affordable housing scheme,Government housing scheme launched
+2021,Bhiwandi,1,482,182.57,4.34,Affordable housing scheme,Improved infrastructure
+2022,Bhiwandi,3,1155,86.18,13.11,Affordable housing scheme,No major development
+2023,Bhiwandi,2,953,98.03,-6.14,Metro expansion,New highway construction
+2024,Bhiwandi,1,501,175.39,-5.94,SEZ zone expansion,New metro line announced
+2021,Andheri West,2,837,97.97,0.12,Metro expansion,New highway construction
+2022,Andheri West,3,1427,53.53,-6.85,Smart city initiative,Improved infrastructure
+2023,Andheri West,3,1442,51.66,-2.48,Commercial hub in planning,No major development
+2024,Andheri West,3,1253,68.09,14.53,No major projects,New metro line announced
+2021,Kurla,3,1492,50.27,4.18,Metro expansion,New metro line announced
+2022,Kurla,2,876,83.89,-2.02,Smart city initiative,Government housing scheme launched
+2023,Kurla,2,678,111.13,2.53,SEZ zone expansion,Real estate slowdown
+2024,Kurla,1,303,264.47,6.36,Private residential complex,Government housing scheme launched
+2021,Vichumbe,2,903,94.13,-2.4,Metro expansion,Environmental concerns
+2022,Vichumbe,1,536,142.73,-10.0,Metro expansion,Real estate slowdown
+2023,Vichumbe,1,324,246.07,4.21,No major projects,Influx of working professionals
+2024,Vichumbe,1,551,149.27,3.16,Affordable housing scheme,Government housing scheme launched
+2021,Kewale,3,1222,48.28,1.43,Commercial hub in planning,Water shortage issues
+2022,Kewale,1,364,161.07,-0.63,No major projects,Influx of working professionals
+2023,Kewale,2,897,61.46,-5.98,SEZ zone expansion,Private township project started
+2024,Kewale,2,902,55.76,-8.76,SEZ zone expansion,Private township project started
+2021,Koper Khairane,3,1394,48.06,-2.51,No major projects,Private township project started
+2022,Koper Khairane,1,531,140.72,11.52,Private residential complex,No major development
+2023,Koper Khairane,2,662,119.86,6.19,IT corridor development,Influx of working professionals
+2024,Koper Khairane,1,551,140.33,-2.55,Metro expansion,Government housing scheme launched
+2021,Dombivli East,2,926,65.87,8.55,Private residential complex,New IT park proposed
+2022,Dombivli East,2,888,73.66,7.23,Metro expansion,Government housing scheme launched
+2023,Dombivli East,3,1443,49.1,8.33,Smart city initiative,New highway construction
+2024,Dombivli East,2,1000,76.73,8.29,New flyover project,Private township project started
+2021,Nerul,1,583,128.64,2.52,New flyover project,New metro line announced
+2022,Nerul,2,798,91.26,-2.9,Smart city initiative,Improved infrastructure
+2023,Nerul,2,836,88.82,1.96,Smart city initiative,Government housing scheme launched
+2024,Nerul,3,1110,63.19,-5.54,New flyover project,Environmental concerns
+2021,Virar East,3,1036,55.98,-1.17,Commercial hub in planning,Influx of working professionals
+2022,Virar East,2,707,93.23,13.65,New flyover project,No major development
+2023,Virar East,1,500,123.67,-6.19,Smart city initiative,New highway construction
+2024,Virar East,3,1357,41.18,-9.63,Private residential complex,Influx of working professionals
