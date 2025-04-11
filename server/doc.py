@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from flask_mail import Mail, Message
 from werkzeug.utils import secure_filename
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 
 load_dotenv()
 
