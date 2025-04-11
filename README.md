@@ -1,5 +1,6 @@
 🏡 Apni Jagah: AI-Driven Real Estate Price Prediction & Transaction Transparency
-
+WORKING MODEL OF THE ABOVE PROJECT (APNI JAGAH)
+VIDEO LINK: https://www.loom.com/share/4c5c88d65f354225b7d4fd2585eef9c1?sid=54a0c542-0128-4c0d-a350-318185964bea
 Transforming property deals with AI, Smart Predictions, and Verified Security
 
 🚀 Overview
@@ -94,5 +95,3 @@ Saubhagya Mishra
 📬 Contact
 Feel free to reach out:
 saubhagyamishraa@gmail.com
-WORKING MODEL OF THE ABOVE PROJECT (APNI JAGAH)
-VIDEO LINK: https://www.loom.com/share/4c5c88d65f354225b7d4fd2585eef9c1?sid=54a0c542-0128-4c0d-a350-318185964bea
