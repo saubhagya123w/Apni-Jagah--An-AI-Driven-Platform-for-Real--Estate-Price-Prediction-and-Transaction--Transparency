@@ -1,71 +1,96 @@
+🏡 Apni Jagah: AI-Driven Real Estate Price Prediction & Transaction Transparency
 
-# TE Mini project
-## Real Estate Price Prediction
-Real Estate Price Prediction is a property/home price predictor. 
-Users can estimate the current values of the housing, as home prices rise in accordance with demand and are affected by location.
-It uses a dataset to train the model and provide the predicted solution.
-This project basically focuses on house prices in Metropolitan areas.
-It mainly aims to provide a cost effective system to estimate cost of property within few clicks.
+Transforming property deals with AI, Smart Predictions, and Verified Security
 
-## Run Locally
+🚀 Overview
+Apni Jagah is an AI-powered real estate platform that tackles the long-standing issues in property transactions — price ambiguity, fraud, and inefficient manual processes. Our system integrates predictive analytics, smart deal evaluations, and document verification to deliver secure, personalized, and data-driven property experiences.
 
-Clone the project
+🔍 Key Features
+💰 AI-Based Price Prediction
+Uses machine learning (Random Forest) for accurate, location-aware price estimates.
 
-```bash
-  git clone https://github.com/SiddhantKodolkar/Real-Estate-price-Prediction-React.git
-```
+🔒 Smart Deal Prediction
+Suggests optimal prices balancing buyer intent and market conditions.
 
-Open the project folder in your editor and open two terminals
+📄 Document Verification Workflow
+Validates seller-uploaded property documents via legal teams.
 
-### Terminal 1: Client Side
+🤝 Buyer Navigation & Comparison Tool
+Helps buyers compare multiple listings with intent-based filters and recommendations.
 
-```bash
-  cd .\client\
-```
+🌐 Neighborhood Trend Insights
+Gain data-backed local area insights before investing.
 
-Install all dependencies
+📊 Performance Metrics
+Achieved R² = 0.85 with Random Forest for high prediction accuracy.
 
-```bash
-  npm install
-```
+🧠 Tech Stack
+Backend: Python, Flask/Django
 
-Start the React App
+Frontend: React
 
-```bash
-  npm run start
-```
+🧠 Machine Learning Libraries Used in Apni Jagah
+📌 1. Pandas
+For data manipulation and analysis.
 
-### Terminal 2: Server Side
+Used in location filtering, neighborhood similarity, and CSV-based operations.
 
-```bash
-  cd .\server\
-```
-Install required libraries 
+📌 2. NumPy
+For numerical computations and array handling, especially in prediction pipelines.
 
-```bash
-  pip install flask pandas pickle
-```
+📌 3. Scikit-learn (sklearn)
+Used across all ML features:
 
-Start the server
+House Price Prediction Model
+→ Model training (LinearRegression, RandomForestRegressor, etc.)
+→ Preprocessing (OneHotEncoder, StandardScaler, Pipeline)
+→ Model evaluation (train_test_split, mean_squared_error, etc.)
 
-```bash
-  python .\main.py
-```
+Neighborhood Price Prediction
+→ Used for finding similar property patterns based on features like BHK, sqft, and location.
 
-## GUI
+📌 4. Joblib
+For saving and loading ML models (model.pkl) and preprocessing pipelines (pipeline.pkl).
 
-### Home Page
-<img width="893" alt="image" src="https://user-images.githubusercontent.com/111975032/236386345-fa05e4b7-5537-4c65-9f7a-770fb50fefcc.png">
+📌 5. Matplotlib / Seaborn (if used during initial EDA)
+Optional: for data visualization during model development (can include in GitHub if used).
 
-### Maps Page
-<img width="896" alt="image" src="https://user-images.githubusercontent.com/111975032/236386521-096f846f-5e27-4c5d-a52b-575e61682ff6.png">
+📈 Datasets
+Key features used for prediction:
+Location
+Area (sq ft)
+BHK (configuration)
+Price (target variable)
+🔬 Machine Learning Evaluation
+Model	MAE (INR)	R² Score
+Logistic Regression	4,833,250.00	0.15
+Decision Tree	1,848,901.61	0.78
+Random Forest	1,692,424.65	0.85
+✅ Random Forest outperformed due to its ensemble learning capability and reduced overfitting.
 
-### About Page
-<img width="895" alt="image" src="https://user-images.githubusercontent.com/111975032/236391732-f93a7ddb-95a3-48c7-a02c-99da62f5447e.png">
+📌 Future Roadmap
+🔗 Blockchain for secure, transparent transactions
 
-### Authors:
-- [@Sachin Choudhary](https://github.com/Sach-123)
-- [@Harsh Karira](https://github.com/Harshkarira)
-- [@Siddhant Kodolkar](https://github.com/SiddhantKodolkar)
-- [@Sahil Madhyan](https://github.com/Sahil-Madhyan)
+🗺️ Map-based amenity visualizations
 
+🏘️ Augmented Reality for virtual property tours
+
+🌿 Eco-conscious listing highlights
+
+📱 Regional language and mobile-first support
+
+💼 Investment tools: ROI calculators, rental yield predictors
+
+🆚 Competitive Edge
+Feature	Traditional Platforms	Apni Jagah
+AI-Powered Price Prediction	❌	✅
+Smart Deal Suggestion	❌	✅
+Verified Documentation	❌	✅
+Property Comparison Tool	⚠️	✅
+Personalized Recommendations	⚠️	✅
+Fraud Prevention	⚠️	✅
+🙌 Contributors
+Saubhagya Mishra
+📬 Contact
+Feel free to reach out:
+saubhagyamishraa@gmail.com
